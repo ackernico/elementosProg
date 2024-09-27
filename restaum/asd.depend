@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718628179 source:c:\users\lucas\documents\programa«√o\asd\resta_um.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"resta_um.h"
+	<ctype.h>
+
+1718622648 c:\users\lucas\documents\programa«√o\asd\resta_um.h
+

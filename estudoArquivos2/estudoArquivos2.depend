@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1723920560 source:c:\users\imagh\documents\trabalhos liberato\elementos de programação\estudoarquivos2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<locale.h>
+

@@ -1,0 +1,4 @@
+Vogais: 23
+Artigos: 0
+Espacos: 12
+Linhas: 6

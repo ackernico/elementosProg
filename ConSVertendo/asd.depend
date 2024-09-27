@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726438576 source:c:\users\imagh\documents\trabalhos liberato\elementos de programação\asd\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<map>
+
